@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39206" started-at="2017-10-12T09:35:27Z" finished-at="2017-10-12T09:36:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39206" started-at="2017-10-12T09:35:27Z" finished-at="2017-10-12T09:36:06Z">
+      <class name="Exercises.com.flipkart.codes.TestClass">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Exercises.com.flipkart.codes.TestClass@31610302]" name="setup" is-config="true" duration-ms="11457" started-at="2017-10-12T15:05:27Z" finished-at="2017-10-12T15:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchProduct()[pri:0, instance:Exercises.com.flipkart.codes.TestClass@31610302]" name="searchProduct" duration-ms="27648" started-at="2017-10-12T15:05:39Z" finished-at="2017-10-12T15:06:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+      </class> <!-- Exercises.com.flipkart.codes.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
