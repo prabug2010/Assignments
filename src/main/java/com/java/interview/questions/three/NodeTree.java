@@ -3,19 +3,19 @@ package com.java.interview.questions.three;
 //Java program to find height of tree
 
 //A binary tree node
-class Node 
+class Node1
 {
  int data;
  Node left, right;
 
- Node(int item) 
+ Node1(int item) 
  {
      data = item;
      left = right = null;
  }
 }
 
-class BinaryTree 
+class BinaryTreeCode 
 {
   Node root;
 
@@ -43,7 +43,7 @@ class BinaryTree
  /* Driver program to test above functions */
  public static void main(String[] args) 
  {
-     BinaryTree tree = new BinaryTree();
+	 BinaryTreeCode tree = new BinaryTreeCode();
 
      tree.root = new Node(1);
      tree.root.left = new Node(2);

@@ -1,6 +1,6 @@
 package com.java.interview.questions.three;
 
-public class LinkedListCode {
+public class LinkedListCodeAssnmnt {
     
     Node head;  // head of list
   
@@ -92,7 +92,7 @@ public class LinkedListCode {
     /* Drier program to test above functions */
     public static void main(String args[])
     {
-        LinkedListCode llist = new LinkedListCode();
+    	LinkedListCodeAssnmnt llist = new LinkedListCodeAssnmnt();
         llist.push(11);
         llist.push(10);
         llist.push(9);
