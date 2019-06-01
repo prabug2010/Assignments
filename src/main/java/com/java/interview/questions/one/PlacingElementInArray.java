@@ -12,7 +12,7 @@ public class PlacingElementInArray {
 			{
 				ch[i]='F';
 			}
-			if(ch[i]=='T'&&ch[i+1]=='T'&&i<n&&ch[i-1]=='F')
+			if(ch[i]=='T'&&ch[i+1]=='T'&&ch[i-1]=='F')
 			{
 				ch[i+1]='F';
 			}

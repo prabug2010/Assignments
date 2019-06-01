@@ -11,4 +11,14 @@
       </class> <!-- com.testng.codes.CrossBrowser -->
     </classes>
   </test> <!-- IETest(failed) -->
+  <test name="FFTest(failed)" parallel="tests">
+    <parameter name="Browser" value="FF"/>
+    <classes>
+      <class name="com.testng.codes.CrossBrowser">
+        <methods>
+          <include name="test1" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.testng.codes.CrossBrowser -->
+    </classes>
+  </test> <!-- FFTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->

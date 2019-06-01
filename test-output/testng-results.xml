@@ -2,66 +2,66 @@
 <testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="165" started-at="2017-10-27T10:43:00Z" finished-at="2017-10-27T10:43:00Z">
+  <suite name="Default suite" duration-ms="199" started-at="2019-03-30T01:34:30Z" finished-at="2019-03-30T01:34:30Z">
     <groups>
       <group name="testFactory">
-        <method signature="FactoryExample.testMethod1()[pri:0, instance:com.testng.codes.FactoryExample@31610302]" name="testMethod1" class="com.testng.codes.FactoryExample"/>
-        <method signature="FactoryExample.testMethod1()[pri:0, instance:com.testng.codes.FactoryExample@31dc339b]" name="testMethod1" class="com.testng.codes.FactoryExample"/>
-        <method signature="FactoryExample.testMethod1()[pri:0, instance:com.testng.codes.FactoryExample@3c0f93f1]" name="testMethod1" class="com.testng.codes.FactoryExample"/>
-        <method signature="FactoryExample.testMethod1()[pri:0, instance:com.testng.codes.FactoryExample@544fe44c]" name="testMethod1" class="com.testng.codes.FactoryExample"/>
-        <method signature="FactoryExample.testMethod2()[pri:0, instance:com.testng.codes.FactoryExample@31610302]" name="testMethod2" class="com.testng.codes.FactoryExample"/>
-        <method signature="FactoryExample.testMethod2()[pri:0, instance:com.testng.codes.FactoryExample@31dc339b]" name="testMethod2" class="com.testng.codes.FactoryExample"/>
-        <method signature="FactoryExample.testMethod2()[pri:0, instance:com.testng.codes.FactoryExample@3c0f93f1]" name="testMethod2" class="com.testng.codes.FactoryExample"/>
-        <method signature="FactoryExample.testMethod2()[pri:0, instance:com.testng.codes.FactoryExample@544fe44c]" name="testMethod2" class="com.testng.codes.FactoryExample"/>
+        <method signature="FactoryExample.testMethod1()[pri:0, instance:com.testng.codes.FactoryExample@4fe3c938]" name="testMethod1" class="com.testng.codes.FactoryExample"/>
+        <method signature="FactoryExample.testMethod1()[pri:0, instance:com.testng.codes.FactoryExample@5383967b]" name="testMethod1" class="com.testng.codes.FactoryExample"/>
+        <method signature="FactoryExample.testMethod1()[pri:0, instance:com.testng.codes.FactoryExample@5ec0a365]" name="testMethod1" class="com.testng.codes.FactoryExample"/>
+        <method signature="FactoryExample.testMethod1()[pri:0, instance:com.testng.codes.FactoryExample@78c03f1f]" name="testMethod1" class="com.testng.codes.FactoryExample"/>
+        <method signature="FactoryExample.testMethod2()[pri:0, instance:com.testng.codes.FactoryExample@4fe3c938]" name="testMethod2" class="com.testng.codes.FactoryExample"/>
+        <method signature="FactoryExample.testMethod2()[pri:0, instance:com.testng.codes.FactoryExample@5383967b]" name="testMethod2" class="com.testng.codes.FactoryExample"/>
+        <method signature="FactoryExample.testMethod2()[pri:0, instance:com.testng.codes.FactoryExample@5ec0a365]" name="testMethod2" class="com.testng.codes.FactoryExample"/>
+        <method signature="FactoryExample.testMethod2()[pri:0, instance:com.testng.codes.FactoryExample@78c03f1f]" name="testMethod2" class="com.testng.codes.FactoryExample"/>
       </group> <!-- testFactory -->
     </groups>
-    <test name="Default test" duration-ms="165" started-at="2017-10-27T10:43:00Z" finished-at="2017-10-27T10:43:00Z">
+    <test name="Default test" duration-ms="199" started-at="2019-03-30T01:34:30Z" finished-at="2019-03-30T01:34:30Z">
       <class name="com.testng.codes.FactoryExample">
-        <test-method status="PASS" signature="init()[pri:0, instance:com.testng.codes.FactoryExample@31610302]" name="init" is-config="true" duration-ms="22" started-at="2017-10-27T16:13:00Z" finished-at="2017-10-27T16:13:00Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.testng.codes.FactoryExample@5383967b]" name="init" is-config="true" duration-ms="14" started-at="2019-03-30T07:04:30Z" finished-at="2019-03-30T07:04:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="testMethod1()[pri:0, instance:com.testng.codes.FactoryExample@31610302]" name="testMethod1" duration-ms="23" started-at="2017-10-27T16:13:00Z" description="test method1" finished-at="2017-10-27T16:13:00Z">
+        <test-method status="PASS" signature="testMethod1()[pri:0, instance:com.testng.codes.FactoryExample@4fe3c938]" name="testMethod1" duration-ms="15" started-at="2019-03-30T07:04:30Z" description="test method1" finished-at="2019-03-30T07:04:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod1 -->
-        <test-method status="PASS" signature="init()[pri:0, instance:com.testng.codes.FactoryExample@31610302]" name="init" is-config="true" duration-ms="1" started-at="2017-10-27T16:13:00Z" finished-at="2017-10-27T16:13:00Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.testng.codes.FactoryExample@5383967b]" name="init" is-config="true" duration-ms="0" started-at="2019-03-30T07:04:30Z" finished-at="2019-03-30T07:04:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="testMethod1()[pri:0, instance:com.testng.codes.FactoryExample@31dc339b]" name="testMethod1" duration-ms="4" started-at="2017-10-27T16:13:00Z" description="test method1" finished-at="2017-10-27T16:13:00Z">
+        <test-method status="PASS" signature="testMethod1()[pri:0, instance:com.testng.codes.FactoryExample@5383967b]" name="testMethod1" duration-ms="3" started-at="2019-03-30T07:04:30Z" description="test method1" finished-at="2019-03-30T07:04:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod1 -->
-        <test-method status="PASS" signature="init()[pri:0, instance:com.testng.codes.FactoryExample@31610302]" name="init" is-config="true" duration-ms="1" started-at="2017-10-27T16:13:00Z" finished-at="2017-10-27T16:13:00Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.testng.codes.FactoryExample@5383967b]" name="init" is-config="true" duration-ms="0" started-at="2019-03-30T07:04:30Z" finished-at="2019-03-30T07:04:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="testMethod1()[pri:0, instance:com.testng.codes.FactoryExample@3c0f93f1]" name="testMethod1" duration-ms="5" started-at="2017-10-27T16:13:00Z" description="test method1" finished-at="2017-10-27T16:13:00Z">
+        <test-method status="PASS" signature="testMethod1()[pri:0, instance:com.testng.codes.FactoryExample@5ec0a365]" name="testMethod1" duration-ms="7" started-at="2019-03-30T07:04:30Z" description="test method1" finished-at="2019-03-30T07:04:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod1 -->
-        <test-method status="PASS" signature="init()[pri:0, instance:com.testng.codes.FactoryExample@31610302]" name="init" is-config="true" duration-ms="0" started-at="2017-10-27T16:13:00Z" finished-at="2017-10-27T16:13:00Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.testng.codes.FactoryExample@5383967b]" name="init" is-config="true" duration-ms="6" started-at="2019-03-30T07:04:30Z" finished-at="2019-03-30T07:04:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="testMethod1()[pri:0, instance:com.testng.codes.FactoryExample@544fe44c]" name="testMethod1" duration-ms="3" started-at="2017-10-27T16:13:00Z" description="test method1" finished-at="2017-10-27T16:13:00Z">
+        <test-method status="PASS" signature="testMethod1()[pri:0, instance:com.testng.codes.FactoryExample@78c03f1f]" name="testMethod1" duration-ms="9" started-at="2019-03-30T07:04:30Z" description="test method1" finished-at="2019-03-30T07:04:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod1 -->
-        <test-method status="PASS" signature="testMethod2()[pri:0, instance:com.testng.codes.FactoryExample@31610302]" name="testMethod2" duration-ms="3" started-at="2017-10-27T16:13:00Z" description="test method2" finished-at="2017-10-27T16:13:00Z">
+        <test-method status="PASS" signature="testMethod2()[pri:0, instance:com.testng.codes.FactoryExample@4fe3c938]" name="testMethod2" duration-ms="3" started-at="2019-03-30T07:04:30Z" description="test method2" finished-at="2019-03-30T07:04:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod2 -->
-        <test-method status="PASS" signature="testMethod2()[pri:0, instance:com.testng.codes.FactoryExample@31dc339b]" name="testMethod2" duration-ms="3" started-at="2017-10-27T16:13:00Z" description="test method2" finished-at="2017-10-27T16:13:00Z">
+        <test-method status="PASS" signature="testMethod2()[pri:0, instance:com.testng.codes.FactoryExample@5383967b]" name="testMethod2" duration-ms="5" started-at="2019-03-30T07:04:30Z" description="test method2" finished-at="2019-03-30T07:04:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod2 -->
-        <test-method status="PASS" signature="testMethod2()[pri:0, instance:com.testng.codes.FactoryExample@3c0f93f1]" name="testMethod2" duration-ms="4" started-at="2017-10-27T16:13:00Z" description="test method2" finished-at="2017-10-27T16:13:00Z">
+        <test-method status="PASS" signature="testMethod2()[pri:0, instance:com.testng.codes.FactoryExample@5ec0a365]" name="testMethod2" duration-ms="3" started-at="2019-03-30T07:04:30Z" description="test method2" finished-at="2019-03-30T07:04:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod2 -->
-        <test-method status="PASS" signature="testMethod2()[pri:0, instance:com.testng.codes.FactoryExample@544fe44c]" name="testMethod2" duration-ms="4" started-at="2017-10-27T16:13:00Z" description="test method2" finished-at="2017-10-27T16:13:00Z">
+        <test-method status="PASS" signature="testMethod2()[pri:0, instance:com.testng.codes.FactoryExample@78c03f1f]" name="testMethod2" duration-ms="4" started-at="2019-03-30T07:04:30Z" description="test method2" finished-at="2019-03-30T07:04:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod2 -->
